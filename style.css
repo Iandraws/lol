@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    
+}
+
+
+
+
+h1 {
+    background-color: brown;
+}
+.ibo{
+    background-color: cornflowerblue;
+    font-size: large;
+}
+#ibo{
+    font-size: large;
+    background-color: crimson;
+}
